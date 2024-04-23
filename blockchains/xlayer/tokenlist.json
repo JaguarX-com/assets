@@ -1,0 +1,56 @@
+{
+  "name": "JaguarSwap: X Layer Extended List",
+  "logoURI": "https://trustwallet.com/assets/images/favicon.png",
+  "timestamp": "2021-11-09T22:30:24.689Z",
+  "tokens": [
+    {
+      "chainId": 196,
+      "asset": "c60_t0x74b7F16337b8972027F6196A17a631aC6dE26d22",
+      "type": "ERC20",
+      "address": "0x74b7F16337b8972027F6196A17a631aC6dE26d22",
+      "name": "USD Coin",
+      "symbol": "USDC",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/JaguarX-com/assets/master/blockchains/xlayer/assets/0x74b7F16337b8972027F6196A17a631aC6dE26d22/logo.png",
+      "pairs": []
+    },
+    {
+      "chainId": 196,
+      "asset": "c60_t0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
+      "type": "ERC20",
+      "address": "0x1E4a5963aBFD975d8c9021ce480b42188849D41d",
+      "name": "Tether",
+      "symbol": "USDT",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/JaguarX-com/assets/master/blockchains/xlayer/assets/0x1E4a5963aBFD975d8c9021ce480b42188849D41d/logo.png",
+      "pairs": []
+    },
+    {
+      "chainId": 1,
+      "asset": "c60_t0xC5015b9d9161Dca7e18e32f6f25C4aD850731Fd4",
+      "type": "ERC20",
+      "address": "0xC5015b9d9161Dca7e18e32f6f25C4aD850731Fd4",
+      "name": "Dai",
+      "symbol": "DAI",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/JaguarX-com/assets/master/blockchains/xlayer/assets/0xC5015b9d9161Dca7e18e32f6f25C4aD850731Fd4/logo.png",
+      "pairs": []
+    },
+    {
+      "chainId": 1,
+      "asset": "c60_t0xe538905cf8410324e03A5A23C1c177a474D59b2b",
+      "type": "ERC20",
+      "address": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
+      "name": "Wrapped OKB",
+      "symbol": "WOKB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/JaguarX-com/assets/master/blockchains/xlayer/assets/0xe538905cf8410324e03A5A23C1c177a474D59b2b/logo.png",
+      "pairs": []
+    }
+  ],
+  "version": {
+    "major": 14,
+    "minor": 0,
+    "patch": 0
+  }
+}
