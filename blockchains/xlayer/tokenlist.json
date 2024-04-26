@@ -26,7 +26,7 @@
       "pairs": []
     },
     {
-      "chainId": 1,
+      "chainId": 196,
       "asset": "c60_t0xC5015b9d9161Dca7e18e32f6f25C4aD850731Fd4",
       "type": "ERC20",
       "address": "0xC5015b9d9161Dca7e18e32f6f25C4aD850731Fd4",
@@ -37,7 +37,7 @@
       "pairs": []
     },
     {
-      "chainId": 1,
+      "chainId": 196,
       "asset": "c60_t0xe538905cf8410324e03A5A23C1c177a474D59b2b",
       "type": "ERC20",
       "address": "0xe538905cf8410324e03A5A23C1c177a474D59b2b",
